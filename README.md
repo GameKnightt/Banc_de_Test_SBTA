@@ -1,6 +1,6 @@
 # Banc de Test SBTA - Documentation
 
-![frame_0_delay-0.01s](/uploads/277f2f1871441194b28d3e0d47b5d197/frame_0_delay-0.01s.jpg)
+![frame_0_delay-0 01s](https://github.com/user-attachments/assets/4d8447a3-5de0-4f55-9d1a-c7518877de53)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![PlatformIO](https://img.shields.io/badge/plateforme-PlatformIO-orange.svg)
@@ -59,13 +59,13 @@ in105-test-bench-sbta/
 
 Cette section présente le schéma d'architecture global du banc de test SBTA, montrant l'interaction entre les différents composants matériels et logiciels.
 
-![Schéma_Architecture_élec_V3](/uploads/8ea529ee0c26d46853c9f20d8478607c/Schéma_Architecture_élec_V3.jpg)
+![Schéma_Architecture_élec_V3](https://github.com/user-attachments/assets/cd189ab6-6f23-4923-aea2-50d275230598)
 
 ### Schéma électrique
 
 Le schéma électrique détaille les connexions entre l'Arduino Mega, les shields, les capteurs et les moteurs.
 
-![Banc_Test_SBTA_Schematic-1](/uploads/9cbeee4080c6ff54f04f54c11e2801ab/Banc_Test_SBTA_Schematic-1.png)
+<img width="2339" height="1653" alt="Banc_Test_SBTA_Schematic-1" src="https://github.com/user-attachments/assets/cfad82e2-caab-4507-bd55-b7c04f4abde8" />
 
 ## Protocole CANopen
 
@@ -80,7 +80,7 @@ Les principales caractéristiques de CANopen utilisées dans ce projet sont:
 - SDO (Service Data Objects) pour la configuration des paramètres
 - Gestion des états des nœuds (démarrage, arrêt, etc.)
 
-![Capture_d_écran_2023-10-03_132828](/uploads/305868ca5914d565eaa0ed31d468c413/Capture_d_écran_2023-10-03_132828.png)
+<img width="347" height="179" alt="Capture_d_écran_2023-10-03_132828" src="https://github.com/user-attachments/assets/5283d0cf-0b72-4cde-910d-7657c9cf070a" />
 
 ### Implémentation dans le projet
 
@@ -116,9 +116,9 @@ La carte Screw Shield a été conçue sur mesure pour ce projet et fabriquée se
 - Connecteurs de puissance séparés pour l'alimentation externe
 - Zones de connexion pour les shields empilables (CAN, Ethernet)
 
-![Picture7](/uploads/cd8a6901b922c2aefa6e615cbaf9eea0/Picture7.png)
+<img width="1416" height="663" alt="Picture7" src="https://github.com/user-attachments/assets/b8922e09-b939-4ab6-8feb-0788d8e9864b" />
 
-![Picture4](/uploads/5e99541a6d09c2c2cf029bd3709ebc25/Picture4.png)
+<img width="1294" height="628" alt="Picture4" src="https://github.com/user-attachments/assets/b2571a65-dcad-4c77-861d-2c6fddd1df53" />
 
 ## Images du projet
 
@@ -126,11 +126,11 @@ Cette section présente des images du banc de test SBTA complet.
 
 ### Vue globale du banc de test
 
-![Banc_de_test](/uploads/665ac7e901a601002c4f0b5d001ef2a6/Banc_de_test.png)
+<img width="306" height="479" alt="Banc_de_test" src="https://github.com/user-attachments/assets/8070ba95-0845-4407-947d-1faa53126aab" />
 
-![Picture2](/uploads/20d4da808734d81897a0b61c3c85ba2c/Picture2.jpg)
+![Picture2](https://github.com/user-attachments/assets/81af36e5-1fd5-4ae1-829f-cd01b1184865)
 
-![Picture1](/uploads/849202a25e7e74d83e5198c1e8f4e3ae/Picture1.jpg)
+![Picture1](https://github.com/user-attachments/assets/97936290-061e-4026-9a52-bb8457f676fc)
 
 ## Installation
 
@@ -211,7 +211,7 @@ Pour modifier le comportement du système:
 
 Développé par Alexy LESAULNIER.
 
-![frame_0_delay-0.01s](/uploads/277f2f1871441194b28d3e0d47b5d197/frame_0_delay-0.01s.jpg)
+![frame_0_delay-0 01s](https://github.com/user-attachments/assets/4d8447a3-5de0-4f55-9d1a-c7518877de53)
 
 ---
 
